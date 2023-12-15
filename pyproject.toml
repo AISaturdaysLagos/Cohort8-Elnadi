@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "python-chatbot-starter"
+version = "0.1.0"
+description = "Chat with your Docs"
+authors = ["Mayo Oshin <mayo@siennaaianalytics.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+uvicorn = {extras = ["standard"], version = "^0.24.0.post1"}
+langchain = "0.0.334"
+pypdf = "3.17.0"
+python-dotenv = "1.0.0"
+requests = "2.31.0"
+pinecone-client = "2.2.4"
+unstructured = "0.10.30"
+tqdm = "4.66.1"
+openai = "1.2.3"
+tiktoken = "0.5.1"
+fastapi = "0.104.1"
+langserve = {extras = ["all"], version = "^0.0.26"}
+pydantic = "1.10.13"
+python-multipart = "^0.0.6"
+pyhumps = "^3.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

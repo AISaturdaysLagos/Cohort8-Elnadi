@@ -2,7 +2,7 @@
 Flood Chat
 
 ## Project description
-n response to the increasing frequency of flood events in Africa, our team has developed a Natural Language Processing (NLP) chatbot and a Machine Learning (ML) project to enhance awareness and provide guidelines on staying safe during flood occurrences. This project integrates a chatbot capable of answering user queries related to flood events in Africa and an ML model trained on historical flood data for the continent.
+In response to the increasing frequency of flood events in Africa, our team has developed a Natural Language Processing (NLP) chatbot and a Machine Learning (ML) project to enhance awareness and provide guidelines on staying safe during flood occurrences. This project integrates a chatbot capable of answering user queries related to flood events in Africa and an ML model trained on historical flood data for the continent.
 
 The Flood Chat Chatbot is designed to engage users in natural language conversations, providing real-time information and guidelines on staying safe during flood events. Users can ask questions related to flood preparedness, response strategies, and specific details about past flood events in Africa. The chatbot utilizes NLP techniques to understand and respond to user queries, ensuring a user-friendly and informative experience.
 

@@ -1,4 +1,4 @@
-# Project/ App Title
+# Project/ Flood Chat
 Flood Chat
 
 ## Project description
